@@ -1,2 +1,2 @@
-# Project-30-Corrected
-Tower siege game with disappearing blocks and a win/lose condition.
+# p5.play-boilerplate
+Boiler plate for p5.play
